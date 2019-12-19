@@ -1,0 +1,29 @@
+{
+    "editor.fontFamily": "Cica, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 25,
+    "editor.lineHeight": 27,
+    "editor.cursorStyle": "block",
+    "editor.formatOnPaste": true, // ペースト時に自動でフォーマット
+    "editor.formatOnSave": true, // ファイル保存時に自動でフォーマット
+    "editor.formatOnType": true, // 入力した行を自動でフォーマット
+    "files.autoGuessEncoding": true, // ファイルの文字コードを自動で判定する
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "files.autoSave": "off",
+    "markdown.styles": [
+        "C:\\Users\\takum\\OneDrive - 崇城大学\\卒業研究_GraduationResearch\\md_style.css",
+        //"C:\\Users\\takum\\OneDrive - 崇城大学\\20190927-0929_東京メモ\\md_style.css"
+    ],
+    "markdown-pdf.type": [
+        "html",
+        "pdf"
+    ],
+    "terminal.integrated.fontFamily": "Cica, Consolas",
+    "markdown-pdf.convertOnSave": true,
+    "markdown-pdf.displayHeaderFooter": false,
+    "C_Cpp.updateChannel": "Insiders",
+    //拡張機能
+    // Trailing Spaces  -  行末の空白を強調表示
+    // EditorConfig for VS Code  -  設定の共有
+    // Rainbow CSV - csvファイルの色付け
+}
