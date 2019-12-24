@@ -8,5 +8,5 @@
     - `$HOME/.config/Code/User`
 
 ## Caution
-  - [ubuntu...]と[archlinux...]で改行コードが[CRLF]に変更されている
+  - [ubuntu...]と[arch...]で改行コードが[CRLF]に変更されている
     - LFに戻すこと...

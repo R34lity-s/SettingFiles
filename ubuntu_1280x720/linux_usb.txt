@@ -1,0 +1,7 @@
+1.USBメモリーを指す
+2.[dmesg]内の[dev:sdb1]的なのを探す。左の場合[/dev/sdb1]
+3.[sudo blkid]と[id]でuidとgidを確認
+4.[sudo mount -o owner,uid=(上から),gid==(上から),utf8,flush (USBメモリ) (マウントするディレクトリ)]
+	owner:nosuidとnodevオプション有効化
+	flush:可能な限り早くストレージに書込
+5.[sudo umount (マウント先のディレクトリ名)]
