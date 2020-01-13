@@ -1,5 +1,4 @@
-# SettingFiles
- Various configuration files.
+#  コンフィグファイル集です。
 
 ## ファイル格納場所
 ### VScode\settings.json
