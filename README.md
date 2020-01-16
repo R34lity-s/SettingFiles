@@ -11,6 +11,9 @@
   - 漢字がデフォルトで中国フォントになるのを回避  
 `C:\Users\[ユーザー名]\.vscode\extensions\yzane.markdown-pdf-[バージョン名]\styles`
 
+### raspbian\motion.conf
+`\etc\motion\motion.conf`
+
 ## 注意！
   - [ubuntu...]と[arch...]で改行コードが[CRLF]に変更されている
     - LFに戻すこと...
